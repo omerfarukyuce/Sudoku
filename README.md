@@ -37,3 +37,6 @@ This project is a Python application that allows users to play Sudoku. The appli
 ## 📝 License
 
 This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+
+## 🔍 Sudoku with Pygame Library
+Project Link: https://github.com/omerfarukyuce/Sudoku-v2
